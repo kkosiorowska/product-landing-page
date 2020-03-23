@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/product-landing-page/static/css/main.fb10dd5b.chunk.css",
+    "main.css": "/product-landing-page/static/css/main.0518b0e6.chunk.css",
     "main.js": "/product-landing-page/static/js/main.3b09b72c.chunk.js",
     "main.js.map": "/product-landing-page/static/js/main.3b09b72c.chunk.js.map",
     "runtime-main.js": "/product-landing-page/static/js/runtime-main.4af08422.js",
@@ -8,15 +8,15 @@
     "static/js/2.f190af51.chunk.js": "/product-landing-page/static/js/2.f190af51.chunk.js",
     "static/js/2.f190af51.chunk.js.map": "/product-landing-page/static/js/2.f190af51.chunk.js.map",
     "index.html": "/product-landing-page/index.html",
-    "precache-manifest.66639b2da4f94e9d5a9ec7a6d128024f.js": "/product-landing-page/precache-manifest.66639b2da4f94e9d5a9ec7a6d128024f.js",
+    "precache-manifest.9070f445f6d94fea9b5d80b665b2ca59.js": "/product-landing-page/precache-manifest.9070f445f6d94fea9b5d80b665b2ca59.js",
     "service-worker.js": "/product-landing-page/service-worker.js",
-    "static/css/main.fb10dd5b.chunk.css.map": "/product-landing-page/static/css/main.fb10dd5b.chunk.css.map",
+    "static/css/main.0518b0e6.chunk.css.map": "/product-landing-page/static/css/main.0518b0e6.chunk.css.map",
     "static/js/2.f190af51.chunk.js.LICENSE.txt": "/product-landing-page/static/js/2.f190af51.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4af08422.js",
     "static/js/2.f190af51.chunk.js",
-    "static/css/main.fb10dd5b.chunk.css",
+    "static/css/main.0518b0e6.chunk.css",
     "static/js/main.3b09b72c.chunk.js"
   ]
 }
