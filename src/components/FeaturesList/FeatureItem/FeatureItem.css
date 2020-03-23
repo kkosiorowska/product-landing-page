@@ -1,0 +1,36 @@
+h2 {
+    letter-spacing: 2px;;
+}
+.icon {
+    font-size: 40px;;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 125px;
+    width: 20vw;
+    color: #ADC1C2;
+}
+  
+@media (max-width: 550px) {
+    .icon {
+       display: none;
+     }
+}
+  
+.desc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 125px;
+    width: 80vw;
+    padding: 5px;
+}
+  
+@media (max-width: 550px) {
+    .desc {
+      width: 100%;
+      text-align: center;
+      padding: 0;
+      height: 150px;
+    }
+}
